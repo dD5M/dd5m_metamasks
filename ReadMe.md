@@ -8,7 +8,7 @@ A FiveM mask management resource with integrated shops functionality.  Resource 
 - Optional support for beards or other cosmetics commonly used in the `berd` mask clothing slot.  If enabled whitelisted drawables will be stored to player state bag and restored on mask removal
 - In built shop system including item images provided by Sploom of [envRP](https://envrp.games)
 
-## Showcase
+## 🎞️ Showcase
 [Preview Clip](https://youtu.be/qXa2doVQ--4)
 
 ![Menu](https://i.imgur.com/OdkvIOb.png)
