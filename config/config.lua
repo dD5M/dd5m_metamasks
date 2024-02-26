@@ -102,7 +102,7 @@ return {
             maskCategory = 'halloween'
         },{
             maskTitle = 'Hockey Mask',
-            maskDescription = 'How 90s horror classic of you.',
+            maskDescription = 'How 80s horror classic of you.',
             maskIcon = 'fa-solid fa-masks-theater',
             femaleDrawable = 4,
             maleDrawable = 4,
