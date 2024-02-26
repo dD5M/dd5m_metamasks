@@ -1,5 +1,5 @@
 # dD5M Meta Masks
-A FiveM mask management resource with integrated shops functionality.  Resource provides masks as inventory items through functionality provided by [ox_inventory](https://github.com/overextended/ox_inventory). Resource can be used independent of any framework by giving items with metadata, or by integrating inbuilt shop system with your framework methods.  Out of the box the resource is compatible with.
+A FiveM mask management resource with integrated shops functionality.  Resource provides masks as inventory items through functionality provided by [ox_inventory](https://github.com/overextended/ox_inventory). Resource can be used independent of any framework by giving items with metadata, or by integrating inbuilt shop system with your framework methods.  Out of the box the resource is compatible with QBOX.
 ---
 ## ✨ Features
 - Physical Mask Items
