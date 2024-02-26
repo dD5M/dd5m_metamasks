@@ -2458,17 +2458,17 @@ return {
         --     maskCategory = 'general'
         -- },
         --######################### End default gta components #############################
-        {
-            maskTitle = 'Bandana 4',
-            maskDescription = 'Comes in assorted colors.',
-            maskIcon = 'fa-solid fa-masks-theater',
-            femaleDrawable = 238,
-            maleDrawable = 237,
-            maskTextures = {0, 1, 2, 3, 4, 5, 6, 7, 8},
-            maskImage = 'nui://dd5m_metamasks/img/drawable_237.png',
-            maskPrice = '100',
-            maskCategory = 'general'
-        },
+        -- {
+        --     maskTitle = 'Bandana 4',
+        --     maskDescription = 'Comes in assorted colors.',
+        --     maskIcon = 'fa-solid fa-masks-theater',
+        --     femaleDrawable = 238,
+        --     maleDrawable = 237,
+        --     maskTextures = {0, 1, 2, 3, 4, 5, 6, 7, 8},
+        --     maskImage = 'nui://dd5m_metamasks/img/drawable_237.png',
+        --     maskPrice = '100',
+        --     maskCategory = 'general'
+        -- },
         --{
         --     maskTitle = 'Insert Name',
         --     maskDescription = 'Mask Description',
