@@ -2215,7 +2215,7 @@ return {
             maskTextures = {0},
             maskImage = 'nui://dd5m_metamasks/img/drawable_213.png',
             maskPrice = '100',
-            maskCategory = 'general'
+            maskCategory = 'halloween'
         },{
             maskTitle = 'Reindeer Mask',
             maskDescription = 'Santas top steed!',
