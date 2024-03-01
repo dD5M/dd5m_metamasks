@@ -21,9 +21,3 @@ lib.callback.register('dd5m_metamasks:server:handleTransaction', function(source
         lib.notify(source, {title = 'Vespucci Movie Masks', description = 'You cannot carry any more.', type = 'error', duration = 5000})
     end
 end)
-
---Server callback for adding item.  Edit as required.
-lib.callback.register('dd5m_metamasks:server:addItem', function(source, maskData)
-    local success = exports.ox_inventory:AddItem(source, 'meta_mask', 1, maskData, nil, nil)
-    return success
-end)
